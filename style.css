@@ -33,7 +33,7 @@ ul, ol {
 
 
 
-/* .list {
+.list {
     font-family: Helvetica, Arial, sans-serif;
     font-weight: 600;
     color: #011936; 
@@ -41,14 +41,14 @@ ul, ol {
     padding: 5px 6px;
     margin: 10px;
 
-} */
+}
 
 .recipe-button {
     display: inline-block;
     background-color: #cab19c;
     color: #7A3B69;
     font-size: 20px;
-    padding: 10px 20px ;
+    padding: 10px 20px;
 
 }
 
@@ -100,6 +100,19 @@ h3 {
     margin-bottom: 4px;
     color: #8e0595;
 }
+
+#home-button  {
+        display: inline-block;
+        background-color: #cab19c;
+        color: #321325;
+        font-size: 20px;
+        padding: 10px 12px;
+        margin: auto; 
+    
+}
+
+
+
 
 
 
