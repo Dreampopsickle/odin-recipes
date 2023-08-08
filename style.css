@@ -17,11 +17,13 @@ h1 {
 
 }
 
-ul {
+ul, ol {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
+
+
 
 .list {
     font-family: Helvetica, Arial, sans-serif;
@@ -29,4 +31,14 @@ ul {
     color: #011936; 
     text-align: center;
 
+}
+
+h3 {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.description {
+    font-family: Helvetica, "Time New Romans", sans-serif;
+    text-align: center
 }
