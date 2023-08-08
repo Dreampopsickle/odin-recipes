@@ -2,18 +2,26 @@
     background-color: #cbf8e9;
 }
 
+.container {
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+ .page-title, 
+ h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    text-decoration: underline;
+
+
+}
+
 img {
     display: block;
     margin: auto;
     padding: 0 0 50px 0;
-    width: 50% ;
-
-}
-
-h1 {
-    text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 100px;
+    width: 70% ;
 
 }
 
@@ -30,15 +38,71 @@ ul, ol {
     font-weight: 600;
     color: #011936; 
     text-align: center;
+    padding: 5px 6px;
+    margin: 10px;
+
+}
+
+.recipe-button {
+    display: inline-block;
+    background-color: #cab19c;
+    color: #7A3B69;
+    font-size: 20px;
+    padding: 10px 20px ;
+
+}
+
+h3#underlined  {
+    text-decoration: underline;
 
 }
 
 h3 {
-    font-family: Arial, sans-serif;
+    font-family: Helvetica, "Time New Romans", sans-serif;
     text-align: center;
 }
 
-.description {
-    font-family: Helvetica, "Time New Romans", sans-serif;
-    text-align: center
+.recipe-card {
+    display: inline-block;
+    margin: auto;
+    padding: 15px;
 }
+
+
+
+
+
+.burger {
+    display: block;
+    margin: auto;
+    padding: 20px;
+}
+
+#what-is-this {
+    font-family: Helvetica, "Comic Sans", sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: #612940;
+    padding: 10px;
+
+}
+
+#ingrediants {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 4px;
+    color: #38023B;
+}
+
+#steps {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 4px;
+    color: #8e0595;
+    
+
+}
+
+
+
+
