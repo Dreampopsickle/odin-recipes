@@ -33,15 +33,15 @@ ul, ol {
 
 
 
-/* .list {
+.list {
     font-family: Helvetica, Arial, sans-serif;
     font-weight: 600;
     color: #011936; 
     text-align: center;
     padding: 5px 6px;
-    margin: 10px; */
+    margin: 10px;
 
-/* } */
+}
 
 .recipe-button {
     display: inline-block;
